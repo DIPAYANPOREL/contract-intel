@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+PyPDF2
+python-multipart
+openai
+python-dotenv
+sse-starlette
+httpx
+google-generativeai
+requests
